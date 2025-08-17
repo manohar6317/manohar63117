@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manohar6317&label=Profile%20views&color=0e75b6&style=flat" alt="manohar6317" /> </p>
 
-- 🔭 I’m currently working on [Ethereum Smart Contract Certificate Verification](https://github.com/manohar6317/Ethereum-Smart-Contract-Certificate-Verification)
+- 🔭 I’m currently working on [FinTech CashPoint Simulator](https://github.com/manohar6317/FinTech-CashPoint-Simulator)
 
 - 📫 How to reach me **manohar6317@gmail.com**
 
